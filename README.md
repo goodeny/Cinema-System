@@ -2,6 +2,7 @@
 
 ## PT-BR Sistema desenvolvido com intuito de mostrar como é o funcionamento de um sistema de cinema e o comportamento entre as classes (O foco não foi a interface, mas deixei intuitiva)
 
+# Para iniciar o sistema, execute o arquivo "register_interface.py"
 # Funcionalidades
 ### Foi criado um banco não relacional em JSON.Foi feito em json para mostrar como é feito o manuseio dos dados em um banco de dados.
 ### Sistema de login, Sistema de cadastro, criação de filmes, salvamento de filme, poltrona, verificações, lotações de salas e assentos e muito mais
